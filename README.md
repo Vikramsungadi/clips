@@ -2,7 +2,7 @@
 
 A fast, keyboard-first clipboard history for macOS, with a Spotlight-style panel and Liquid Glass on macOS 26.
 
-<p align="center"><img src="docs/screenshots/all.png" width="720" alt="Clips panel showing the All tab"></p>
+<p align="center"><img src="docs/screenshots/features.png" width="720" alt="Clips panel listing its features"></p>
 
 ## Screenshots
 
