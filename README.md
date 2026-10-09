@@ -2,6 +2,16 @@
 
 A fast, keyboard-first clipboard history for macOS, with a Spotlight-style panel and Liquid Glass on macOS 26.
 
+<p align="center"><img src="docs/screenshots/all.png" width="720" alt="Clips panel showing the All tab"></p>
+
+## Screenshots
+
+| | |
+|---|---|
+| <img src="docs/screenshots/all.png" alt="All tab"><br>**All**: everything you copied, newest first | <img src="docs/screenshots/text.png" alt="Text tab"><br>**Text**: just text, ⌘0–9 to paste |
+| <img src="docs/screenshots/images.png" alt="Images tab"><br>**Images**: screenshots in a 2-column grid | <img src="docs/screenshots/saved.png" alt="Saved tab"><br>**Saved**: named clips, kept forever |
+| <img src="docs/screenshots/settings.png" alt="Settings window"><br>**Settings**: shortcut, history size, privacy | |
+
 ## Features
 
 - **⇧⌘Space** (changeable) or the 📎 menu bar icon opens the panel in the middle of the screen, including over full-screen apps
